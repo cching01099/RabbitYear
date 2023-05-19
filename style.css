@@ -23,8 +23,8 @@ table {
   font-weight: 400;
 }
 
-td {
-  font-size: 5em;
+.tw {
+  font-size: 4em;
   text-align: center;
   font-weight: 700;
   padding: 0px;
@@ -32,7 +32,9 @@ td {
 
 h2 {
   margin-top: 15px;
-  margin-bottom: 100px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
   font-size: 2em;
   text-transform: capitalize;
   font-weight: 700;
@@ -111,6 +113,7 @@ button:active {
     text-transform: capitalize;
     font-weight: 700;
     word-spacing: 5px;
+    width: auto;
   }
 
   p {
