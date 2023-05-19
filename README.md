@@ -1,5 +1,9 @@
 # Year of the Rabbit
 
+動態畫面
+![Index page about RabbitYear](./images/screenrecord.gif)
+
+靜態畫面
 ![Index page about RabbitYear](./images/RabbitYear_imagedemo.png)
 
 ## 📌 專案目的
